@@ -1,3 +1,8 @@
-@TheMKDev on twitter
+Itch
+themkdev.itch.io
 
-themkdev.itch.io on itch
+Twitter
+@TheMKDev
+
+Discord
+https://discordapp.com/users/1003017556988268574
