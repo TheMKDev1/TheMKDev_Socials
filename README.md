@@ -1,5 +1,3 @@
-@TheBananaDev on twitter
+@TheMKDev on twitter
 
-thebananadev.itch.io on itch
-
-#banana_power
+themkdev.itch.io on itch
